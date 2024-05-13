@@ -1,0 +1,3 @@
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Server-HTTP/build/CMakeFiles/Server.dir
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Server-HTTP/build/CMakeFiles/edit_cache.dir
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Server-HTTP/build/CMakeFiles/rebuild_cache.dir
